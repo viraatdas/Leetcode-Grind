@@ -1,2 +1,3 @@
 # Leetcode-Grind
-Something to help me track the amount of Leetcode I do 
+Purpose:
+  - Organize the leetcode questions done in a single repository
